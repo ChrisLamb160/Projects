@@ -1,4 +1,4 @@
-## Within these files, you will find my assignments 6, 7, and 8.
+## Within this page, you will find my assignments 6, 7, and 8.
 
 ### _Assignment 6_ was the assignment where we learned the topic of "Functions".
 This would be things like rotate, scale, push, pop, and more.
